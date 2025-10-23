@@ -1,6 +1,6 @@
 [
     {
-        "device_id": "34abba02344edbfd",
+        "device_id": "ofs123",
         "username": "new2",
         "password": "memek",
         "expirydate": "31-12-2025",
@@ -11,6 +11,14 @@
         "username": "user2",
         "password": "pass456",
         "expirydate": "15-06-2025",
+        "Allowoffline": false
+    }
+]
+{
+        "device_id": "34abba02344edbfd",
+        "username": "user9",
+        "password": "dennyindra",
+        "expirydate": "15-12-2025",
         "Allowoffline": false
     }
 ]
