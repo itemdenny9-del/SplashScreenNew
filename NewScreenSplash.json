@@ -19,8 +19,8 @@
         "device_id": "34abba02344edbfd",
         "username": "denny",
         "password": "memekbau",
-        "expirydate": "31-12-2025",
-        "Allowoffline": true
+        "expirydate": "31-12-2029",
+        "Allowoffline": false
     },
     {
         "device_id": "dev456",
